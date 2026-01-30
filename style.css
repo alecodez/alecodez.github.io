@@ -1,0 +1,203 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    background-color: black;
+    font-family: Arial;
+    color: white;
+    text-align: center;
+}
+.nav {
+    a {
+        color: white;
+        text-decoration: none;
+        padding: 20px;
+    }
+    a:hover {
+            text-decoration: underline; 
+            color: red;
+    }
+}
+
+.index-body {
+    background-image: url("imagery/images/index-bg.jpg");
+    font-family: Arial;
+    color: black;
+}
+.index-title {
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
+.index-subtitle {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+.look-title {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    
+}
+
+.href-gang {
+    color: white;
+    a {
+        color: blue;
+        text-decoration:none;
+    }
+     a:hover {
+            color: green;
+            text-decoration: underline;
+        }
+    text-align: center;
+}
+
+.footer {
+    color: black;
+    font-family: Arial;
+    background-color: greenyellow;
+    text-align: center;
+    height: 100%;
+}
+
+.info-body {
+    background-image: url("imagery/images/info-bg.jpg");
+    font-family: Arial;
+    color: yellow;
+}
+
+.info-title {
+    text-align: center;
+    padding: 20px;
+}
+
+.href-info {
+
+    text-align: center;
+    a {
+        color: white;
+        text-decoration: none;
+        
+    }
+
+    a:hover {
+            color: red;
+            text-decoration: underline;
+        }
+}
+
+.info-lore {
+    color: red;
+}
+
+#interests {
+    color: red;
+}
+
+.p-interests {
+    a {
+        color: red;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: green;
+        text-decoration: underline;
+    }
+}
+
+.info-peak {
+    color: red;
+}
+
+.projects-body {
+    background-image: url("imagery/images/projects-bg.jpg");
+    font-family: Arial;
+    color: yellow;
+}
+
+.projects-title {
+    color: yellow;
+    text-align: center;
+    padding: 10px;
+}
+.href-projects {
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: red;
+        text-decoration: underline;
+    }
+
+    text-align:center;
+}
+
+.href-gestionale {
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: green;
+        text-decoration: underline;
+    }
+}
+
+.contacts-body {
+    color: yellow;
+    font-family: Arial;
+    background-image: url("imagery/images/index-bg.jpg");
+    text-align: center;
+}
+
+.contacts-title {
+    color: red;
+}
+
+.contacts-nav {
+    a {
+        color: yellowgreen;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: green; 
+        text-decoration: underline;
+    }
+
+    font-size: 30px;
+}
+
+.coding-body {
+    color: yellow;
+    background-image: url("imagery/images/coding-bg.jpg");
+    font-family: Arial;
+}
+
+.nav-title {
+    color: yellow; 
+    text-align: center;
+    padding: 10px;
+}
+
+.coding-nav {
+    text-align: center;
+    a {
+        color: white;
+        text-decoration: none
+    }
+    a:hover {
+        color: red;
+        text-decoration: underline;
+    }
+}
